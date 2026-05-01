@@ -36,6 +36,8 @@ What problems did you encounter and how did you solve them?
 ## Screenshots (optional)
 ![Screenshot description](path/to/screenshot.png)
 <img width="486" height="206" alt="image" src="https://github.com/user-attachments/assets/29cdec2a-2a94-4943-90d5-5a26bf7d6623" />
+<img width="528" height="340" alt="image" src="https://github.com/user-attachments/assets/d574ba77-0549-4792-b4f6-3f64fa2c8226" />
+
 
 
 ## Live Demo (if deployed)
